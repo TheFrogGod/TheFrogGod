@@ -5,3 +5,7 @@ My main github account was falsely flagged during a time when I had to be workin
 # Main Github
 
 [TheGreatSageEqualToHeaven](https://github.com/TheGreatSageEqualToHeaven)
+
+# Main README
+
+Maintainer @ [Loretta](https://github.com/LorettaDevs/)<div></div>Developer @ [LD](https://discord.gg/deobfuscator)
